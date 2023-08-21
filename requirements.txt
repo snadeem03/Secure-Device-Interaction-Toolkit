@@ -1,6 +1,9 @@
+**MAKE SURE THESE DEPENDENCIES ARE DOWNLOADED BEFORE YOU START RUNNING THE COMMANDS **
+
 ngrok>=3.3.4
 python>=3.11.4
 git >=2.40.1
 python package "requests" >=2.31.0
 python package "colorama" >=0.4.6
 python package "psutil" >=5.9.4
+Storm-Breaker>=3.0
