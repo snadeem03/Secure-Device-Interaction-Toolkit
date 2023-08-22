@@ -1,1 +1,17 @@
+
+
+
 NOTE : ! ENSURE YOU HAVE KALI LINUX INSTALLED , YOU CAN SET UP KALI LINUX ON A CLOUD PLATFORM OR WITHIN A VIRTUALBOX ENVIRONMENT
+
+
+Storm-Breaker : You can clone the repository that i am providing to your local folder :
+
+
+github link: https://github.com/ultrasecurity/Storm-Breaker.git
+
+Requests package : <sudo apt install python3-requests>
+Colorama package : <sudo apt install python3-colorama>
+Psutil package : <sudo apt install python3-psutil>
+
+*Navigate into Storm-Breaker directory and run the script file "install.sh" that contains additional dependencies , to run script file you can use bash command.
+
