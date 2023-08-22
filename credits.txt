@@ -1,0 +1,25 @@
+#CREDITS 
+
+
+I would like to express my gratitude to the following GitHub repositories and websites for their significant contributions to my project's development and my learning journey:
+
+
+## GitHub Repositories 
+1.https://github.com/ultrasecurity/Storm-Breaker/
+
+2.https://github.com/inconshreveable/ngrok
+
+## Websites
+1.https://ngrok.com
+
+2.https://www.python.org
+
+3.https://www.kali.org/tools/
+
+
+## Special Thanks
+
+My heartfelt thanks to all the contributors and authors behind these repositories and websites. Your resources have been instrumental in my growth as a developer and in the development of my project.
+
+By creating this `credits.txt` file, we will be providing a dedicated space to acknowledge the sources that have influenced our learning and project. It's a great way to publicly appreciate the community's contributions and to promote the sharing of knowledge within the development community.
+
