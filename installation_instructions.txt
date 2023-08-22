@@ -12,6 +12,8 @@ github link: https://github.com/ultrasecurity/Storm-Breaker.git
 Requests package : <sudo apt install python3-requests>
 Colorama package : <sudo apt install python3-colorama>
 Psutil package : <sudo apt install python3-psutil>
+ngrok : go to official ngrok website using https://ngrok.com/download and download the ngrok TGZ file from there.After downloading extract the file into the storm-Breaker directory using  "tar" command.The complete command is given in the official website.
 
 *Navigate into Storm-Breaker directory and run the script file "install.sh" that contains additional dependencies , to run script file you can use bash command.
+
 
